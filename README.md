@@ -6,5 +6,6 @@ The objective of this assignment is to create a portfolio of my current work for
 
 ## Screenshot of Webpage
 
+![Screenshot](https://github.com/mbullock710/challenge2/assets/148500556/82debd8b-147f-41f9-841f-3e16f3d1daf7)
 
 ## Link to Deployed Application
