@@ -46,4 +46,4 @@ The Acceptance Criteria for this assignment is below:
 
 ## Link to Deployed Application
 
-https://mbullock710.github.io/challenge2/
+https://mbullock710.github.io/My-Portfolio/
